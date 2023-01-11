@@ -62,8 +62,8 @@ params:
     title: Ethan J Redmond
     subtitle: "Data Scientist | Computational Biology PhD Student at the University of York"
     imageUrl: "<image https://ethanjredmond.com/img/ethan_headshot.jpg>"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 250
+    imageHeight: 250
     imageTitle: "Photo of Ethan Redmond"
     # relative: true
     # buttons:
