@@ -77,8 +77,6 @@ params:
   #   Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/ethanjredmond"
     - name: linkedin
       url: "https://www.linkedin.com/in/ethan-redmond-97211b170/"
     - name: github
